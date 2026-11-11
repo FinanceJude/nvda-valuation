@@ -1,4 +1,3 @@
-[README-2.md](https://github.com/user-attachments/files/34708123/README-2.md)
 # NVIDIA (NVDA) Valuation
 
 **Jude Solis**, B.S. Business Administration, Finance, California Lutheran University (2026)

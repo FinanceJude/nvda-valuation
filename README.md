@@ -1,10 +1,11 @@
-# nvda-valuation
-[README.md](https://github.com/user-attachments/files/34706696/README.md)
+[README-2.md](https://github.com/user-attachments/files/34707289/README-2.md)
 # NVIDIA (NVDA) Valuation
 
-**Jude Solis** · B.S. Business Administration, Finance, California Lutheran University (2026)
+**Jude Solis**, B.S. Business Administration, Finance, California Lutheran University (2026)
 
-Priced as of Nov 9, 2026. For educational purposes only, not investment advice.
+Priced as of Nov 9, 2026.
+
+**Files:** [Excel model](NVDA%20DCF%20MODEL.xlsx) | [One-page write-up (PDF)](NVDA_Valuation_Writeup-3.pdf)
 
 | | |
 |---|---|
@@ -21,8 +22,8 @@ I built a five-year integrated three-statement model from the FY2022–FY2026 10
 ## Revenue growth: 85% / 30% / 15% / 10% / 6% (FY27–FY31)
 
 - FY27 rests on reported results. H1 actual revenue was $177.8bn, Q3 guidance is $108.0bn, and I assume about $114bn in Q4, so FY27 comes to about $399bn (+85%).
-- Growth slows quickly after FY27. Revenue is already about 8x FY2023. The main risks are hyperscalers pausing capex, custom chips (ASICs) taking share, and China export limits; the Q3 guide assumes no China data center revenue. Growth averages about 15% a year from FY27 to FY31.
-- Bear (75% → 10% → 0% → 3% → 3%) assumes a spending pause and share lost to ASICs. Bull (90% → 45% → 25% → 15% → 10%) assumes the Rubin product cycle keeps growing.
+- Growth slows quickly after FY27. Revenue is already about 8x FY2023. The main risks are hyperscalers pausing capex, custom chips (ASICs) taking share, and China export limits. The Q3 guide assumes no China data center revenue. Growth averages about 15% a year from FY27 to FY31.
+- Bear (75% / 10% / 0% / 3% / 3%) assumes a spending pause and share lost to ASICs. Bull (90% / 45% / 25% / 15% / 10%) assumes the Rubin product cycle keeps growing.
 
 ## Margins and costs
 

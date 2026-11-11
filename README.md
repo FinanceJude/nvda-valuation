@@ -6,8 +6,6 @@
 
 Priced as of Nov 9, 2026. For educational purposes only, not investment advice.
 
-**Files:** [Excel model (NVDA_DCF_MODEL.xlsx)](NVDA_DCF_MODEL.xlsx) · [Write-up (PDF)](NVDA_Valuation_Writeup.pdf)
-
 | | |
 |---|---|
 | DCF intrinsic value (Base) | **$215.60** |
